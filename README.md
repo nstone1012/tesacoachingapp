@@ -1,0 +1,2 @@
+# tesacoachingapp
+TESA - Business Leadership and Coaching Wiki and LMS eLearning Portal with Training for TESA Training Conferences and Convention/Speaking Engagements on Leadership and Executive Business - Uses Wordpress API, React, WP API, .NET Core 2.1 MVC .NET Core API and HTML CSS Javascript with a AWS based Cloud SQL Datastore - S3 with some PHP Webhooks for SMS and Email Notifications and Communication Tools within the Backend Subscription App. This contains part of the Subscription App, Mostly the tooling and OAUTH. 
